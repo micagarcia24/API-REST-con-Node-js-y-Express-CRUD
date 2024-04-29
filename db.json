@@ -1,0 +1,28 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "name": "El día que dejó de nevar en Alaska",
+            "author": "Alice Kellen",
+            "year": 2019
+        },
+        {
+            "id": 2,
+            "name": "Padre rico, padre pobre",
+            "author": "Robert Kiyosaki",
+            "year": 1997
+        },
+        {
+            "id": 3,
+            "name": "Los 7 haitos de la gente altamente efectiva",
+            "author": "Stephen R. Covey",
+            "year": 1989
+        },
+        {
+            "id": 4,
+            "name": "Nosotros en la Luna",
+            "author": "Alice Kellen",
+            "year": 2020
+        }
+    ]
+}
